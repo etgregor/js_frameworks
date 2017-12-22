@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knockout", "knockout\knockout.csproj", "{8B024BCF-8050-4443-842D-F1BB1AD6F12F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knockout.Tests", "knockout.Tests\knockout.Tests.csproj", "{2EF7BC4F-A949-4064-92F5-89F9DB46E5E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B024BCF-8050-4443-842D-F1BB1AD6F12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B024BCF-8050-4443-842D-F1BB1AD6F12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B024BCF-8050-4443-842D-F1BB1AD6F12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B024BCF-8050-4443-842D-F1BB1AD6F12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF7BC4F-A949-4064-92F5-89F9DB46E5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF7BC4F-A949-4064-92F5-89F9DB46E5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF7BC4F-A949-4064-92F5-89F9DB46E5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF7BC4F-A949-4064-92F5-89F9DB46E5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
